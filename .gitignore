@@ -1,0 +1,5 @@
+whatsapp_session/ 
+build/ 
+dist/ 
+*.spec 
+__pycache__/
